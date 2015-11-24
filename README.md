@@ -33,6 +33,11 @@
 ## Search:
 * ElasticSearch 1.4.1
 
+## Others:
+* Logstash 1.4.2
+* PHPUnit
+* Supervisord
+
 # Installing:
 ``` vagrant up ```
 Thant's all!
